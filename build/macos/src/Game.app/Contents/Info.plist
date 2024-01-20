@@ -5,13 +5,13 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleDisplayName</key>
-        <string>BevyGame</string> <!-- ToDo: this should be the same as your OSX app name in the release flow -->
+        <string>LimanEngine</string> <!-- ToDo: this should be the same as your OSX app name in the release flow -->
         <key>CFBundleExecutable</key>
-        <string>bevy_game</string> <!-- ToDo: this should be the same as your executable name in the release flow -->
+        <string>liman_engine</string> <!-- ToDo: this should be the same as your executable name in the release flow -->
         <key>CFBundleIconFile</key>
         <string>AppIcon.icns</string>
         <key>CFBundleIdentifier</key>
-        <string>your.domain.bevy-game</string> <!-- ToDo -->
+        <string>com.liman.engine</string> <!-- ToDo -->
         <key>CFBundleInfoDictionaryVersion</key>
         <string>6.0</string>
         <key>CFBundleName</key>
